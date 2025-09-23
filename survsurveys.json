@@ -601,7 +601,7 @@
       {
          "surveyId":"KE008",
          "surveyCategory":"Twiga Foods",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
