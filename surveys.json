@@ -297,7 +297,7 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":80,
          "surveyQuestions":[
             {
@@ -377,7 +377,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -520,7 +520,7 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":68,
          "surveyQuestions":[
             {
@@ -602,7 +602,7 @@
       {
          "surveyId":"KE008",
          "surveyCategory":"Twiga Foods",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -822,7 +822,7 @@
       {
          "surveyId":"KE011",
          "surveyCategory":"Java House",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -893,7 +893,7 @@
       {
          "surveyId":"KE012",
          "surveyCategory":"Kipepeo Clothing",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":58,
          "surveyQuestions":[
             {
