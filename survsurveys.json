@@ -1,3 +1,4 @@
+
 {
    "surveyTag":"Surveys Available Today",
    "surveys":[
@@ -5,7 +6,7 @@
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 50,
+        "surveyAmount": 100,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
@@ -69,7 +70,7 @@
       {
          "surveyId":"KE001",
          "surveyCategory":"Safaricom M-PESA",
-         
+         "surveyPaid": true,
          "surveyAmount":75,
          "surveyQuestions":[
             {
@@ -148,7 +149,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -296,7 +297,7 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":80,
          "surveyQuestions":[
             {
@@ -376,7 +377,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -519,7 +520,7 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":68,
          "surveyQuestions":[
             {
