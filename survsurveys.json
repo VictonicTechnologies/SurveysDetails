@@ -6,7 +6,7 @@
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 100,
+        "surveyAmount": 50,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
@@ -70,7 +70,7 @@
       {
          "surveyId":"KE001",
          "surveyCategory":"Safaricom M-PESA",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":75,
          "surveyQuestions":[
             {
@@ -215,7 +215,7 @@
       {
          "surveyId":"KE003",
          "surveyCategory":"Naivas Supermarket",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":65,
          "surveyQuestions":[
             {
