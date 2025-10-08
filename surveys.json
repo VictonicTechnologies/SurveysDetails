@@ -441,7 +441,7 @@
       {
          "surveyId":"KE006",
          "surveyCategory":"Jumia Kenya",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":70,
          "surveyQuestions":[
             {
@@ -520,7 +520,7 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":68,
          "surveyQuestions":[
             {
