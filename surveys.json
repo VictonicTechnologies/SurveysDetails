@@ -4,9 +4,9 @@
    "surveys":[
       {
         "surveyId": "1",
-        "surveyCategory": "MobiEarn",
+        "surveyCategory": "About Us",
         "surveyPaid": false,
-        "surveyAmount": 230,
+        "surveyAmount": 70,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
@@ -149,7 +149,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -297,7 +297,7 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":80,
          "surveyQuestions":[
             {
