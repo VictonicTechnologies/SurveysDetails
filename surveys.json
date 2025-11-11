@@ -4,12 +4,12 @@
    "surveys":[
       {
         "surveyId": "1",
-        "surveyCategory": "About Us",
+        "surveyCategory": "Welcome Bonus Quiz",
         "surveyPaid": false,
-        "surveyAmount": 70,
+        "surveyAmount": 1000,
         "surveyQuestions": [
           {
-            "surveyQuestion": "How did you hear about us?",
+            "surveyQuestion": "How did you hear about Surveyiss?",
             "surveyType": 1,
             "surveyAnswers": [
               "Youtube",
@@ -29,7 +29,7 @@
             ]
           },
           {
-            "surveyQuestion": "Mobie>arn allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+            "surveyQuestion": "Surveyiss allows you to earn money from every survey. You will receive your payment when you submit your survey.",
             "surveyType": 1,
             "surveyAnswers": [
               "Looks Good",
@@ -149,7 +149,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -297,7 +297,7 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":80,
          "surveyQuestions":[
             {
@@ -441,7 +441,7 @@
       {
          "surveyId":"KE006",
          "surveyCategory":"Jumia Kenya",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":70,
          "surveyQuestions":[
             {
@@ -520,7 +520,7 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid": false,
+         "surveyPaid": true,
          "surveyAmount":68,
          "surveyQuestions":[
             {
