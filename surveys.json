@@ -149,7 +149,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -377,7 +377,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -602,7 +602,7 @@
       {
          "surveyId":"KE008",
          "surveyCategory":"Twiga Foods",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -741,7 +741,7 @@
       {
          "surveyId":"KE010",
          "surveyCategory":"Zuku",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":72,
          "surveyQuestions":[
             {
@@ -1037,7 +1037,7 @@
       {
          "surveyId":"KE014",
          "surveyCategory":"Bidco Africa",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":48,
          "surveyQuestions":[
             {
@@ -1186,7 +1186,7 @@
       {
          "surveyId":"KE016",
          "surveyCategory":"Artcaffe",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":64,
          "surveyQuestions":[
             {
