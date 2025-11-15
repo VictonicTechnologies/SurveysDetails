@@ -4,9 +4,9 @@
    "surveys":[
       {
         "surveyId": "1",
-        "surveyCategory": "Welcome Bonus Quiz",
+        "surveyCategory": "Welcome Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 1000,
+        "surveyAmount": 80,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about Surveyiss?",
