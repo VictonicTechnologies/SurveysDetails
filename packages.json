@@ -3,9 +3,9 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
-      "dailySurvey": 1,
-      "monthlyIncome": 0,
-      "dailyIncome": 0,
+      "dailySurvey": 5,
+      "monthlyIncome": 2000,
+      "dailyIncome": 250,
       "minimumWithdrawal": 4500,
       "earningPerSurvey": "40 - 50",
       "price": "0"
@@ -14,7 +14,7 @@
       "planName": "Business Basic",
       "dailySurvey": 10,
       "monthlyIncome": 8000,
-      "dailyIncome": 250,
+      "dailyIncome": 390,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
       "price": "250"
