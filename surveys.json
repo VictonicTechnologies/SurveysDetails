@@ -148,8 +148,8 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid": false,
-         "surveyAmount":30,
+         "surveyPaid": true,
+         "surveyAmount":130,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Equity Bank services do you currently use?",
@@ -296,8 +296,8 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid": false,
-         "surveyAmount":60,
+         "surveyPaid": true,
+         "surveyAmount":150,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you fly with Kenya Airways?",
@@ -519,8 +519,8 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid": false,
-         "surveyAmount":48,
+         "surveyPaid": true,
+         "surveyAmount":125,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which KCB Bank services do you use?",
@@ -1036,8 +1036,8 @@
       {
          "surveyId":"KE014",
          "surveyCategory":"Bidco Africa",
-         "surveyPaid": false,
-         "surveyAmount":28,
+         "surveyPaid": true,
+         "surveyAmount":100,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Bidco Africa products do you use?",
