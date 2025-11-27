@@ -3,7 +3,7 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
-      "dailySurvey": 5,
+      "dailySurvey": 6,
       "monthlyIncome": 2000,
       "dailyIncome": 250,
       "minimumWithdrawal": 4500,
@@ -12,7 +12,7 @@
     },
     {
       "planName": "Business Basic",
-      "dailySurvey": 10,
+      "dailySurvey": 12,
       "monthlyIncome": 8000,
       "dailyIncome": 390,
       "minimumWithdrawal": 3000,
@@ -21,7 +21,7 @@
     },
     {
       "planName": "Business Premium",
-      "dailySurvey": 15,
+      "dailySurvey": 18,
       "monthlyIncome": 15000,
       "dailyIncome": 500,
       "minimumWithdrawal": 2500,
@@ -39,8 +39,8 @@
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "Surveyiss",
-    "tillNumber":  123456
+    "tillName": "TIPCENTRALEA",
+    "tillNumber":  937226
   },
   "moneyMaking": [
     
