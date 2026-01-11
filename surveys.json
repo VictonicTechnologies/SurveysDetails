@@ -3,9 +3,9 @@
   "surveys": [
     {
       "surveyId": "TECH001",
-      "surveyCategory": "Agentic AI & Autonomous Agents",
+      "surveyCategory": "Agentic AI",
       "surveyPaid": true,
-      "surveyAmount": 195,
+      "surveyAmount": 95,
       "surveyQuestions": [
         {"surveyQuestion": "How frequently do you currently delegate complex multi-step tasks to AI agents?", "surveyType": 1, "surveyAnswers": ["Multiple times per day", "Daily", "Several times per week", "Occasionally", "Never"]},
         {"surveyQuestion": "Which capability do you most want from next-generation AI agents in 2026?", "surveyType": 3, "surveyAnswers": ["Long-horizon planning", "Reliable tool usage & APIs", "Multi-agent collaboration", "Persistent memory across sessions", "Strong privacy & local execution"]},
@@ -16,7 +16,7 @@
     },
     {
       "surveyId": "TECH002",
-      "surveyCategory": "Physical AI & Humanoid Robotics",
+      "surveyCategory": "Humanoid Robotics",
       "surveyPaid": true,
       "surveyAmount": 220,
       "surveyQuestions": [
@@ -29,7 +29,7 @@
     },
     {
       "surveyId": "TECH003",
-      "surveyCategory": "Spatial Computing & Mixed Reality",
+      "surveyCategory": "Spatial Computing",
       "surveyPaid": true,
       "surveyAmount": 178,
       "surveyQuestions": [
@@ -42,7 +42,7 @@
     },
     {
       "surveyId": "TECH004",
-      "surveyCategory": "AI-Native Software Development",
+      "surveyCategory": "AI-Native Software Dev",
       "surveyPaid": true,
       "surveyAmount": 245,
       "surveyQuestions": [
@@ -94,7 +94,7 @@
     },
     {
       "surveyId": "TECH008",
-      "surveyCategory": "Edge Intelligence & On-Device AI",
+      "surveyCategory": "Edge Intelligence",
       "surveyPaid": true,
       "surveyAmount": 192,
       "surveyQuestions": [
@@ -120,7 +120,7 @@
     },
     {
       "surveyId": "TECH010",
-      "surveyCategory": "Multi-Modal Vision-Language-Action Models",
+      "surveyCategory": "Multi-Modal Vision-Language",
       "surveyPaid": true,
       "surveyAmount": 205,
       "surveyQuestions": [
@@ -133,7 +133,7 @@
     },
     {
       "surveyId": "TECH011",
-      "surveyCategory": "Sovereign AI Clouds & National Models",
+      "surveyCategory": "Sovereign AI Clouds",
       "surveyPaid": false,
       "surveyAmount": 188,
       "surveyQuestions": [
@@ -146,7 +146,7 @@
     },
     {
       "surveyId": "TECH012",
-      "surveyCategory": "AI for Scientific Discovery Acceleration",
+      "surveyCategory": "AI for Discovery Acceleration",
       "surveyPaid": true,
       "surveyAmount": 232,
       "surveyQuestions": [
@@ -159,7 +159,7 @@
     },
     {
       "surveyId": "TECH013",
-      "surveyCategory": "Confidential & Private AI Computing",
+      "surveyCategory": "Private AI Computing",
       "surveyPaid": false,
       "surveyAmount": 165,
       "surveyQuestions": [
@@ -185,7 +185,7 @@
     },
     {
       "surveyId": "TECH015",
-      "surveyCategory": "6G & Advanced Wireless Expectations",
+      "surveyCategory": "Advanced Wireless Expectations",
       "surveyPaid": false,
       "surveyAmount": 132,
       "surveyQuestions": [
@@ -198,7 +198,7 @@
     },
     {
       "surveyId": "TECH016",
-      "surveyCategory": "Neuromorphic & Energy-Efficient AI Hardware",
+      "surveyCategory": "Neuromorphic AI Hardware",
       "surveyPaid": true,
       "surveyAmount": 210,
       "surveyQuestions": [
@@ -211,7 +211,7 @@
     },
     {
       "surveyId": "TECH017",
-      "surveyCategory": "AI Governance & Regulation Tools",
+      "surveyCategory": "AI Regulation Tools",
       "surveyPaid": false,
       "surveyAmount": 155,
       "surveyQuestions": [
@@ -224,7 +224,7 @@
     },
     {
       "surveyId": "TECH018",
-      "surveyCategory": "Longevity & AI-Driven Personalized Medicine",
+      "surveyCategory": "AI-Driven Personalized Medicine",
       "surveyPaid": true,
       "surveyAmount": 225,
       "surveyQuestions": [
@@ -250,7 +250,7 @@
     },
     {
       "surveyId": "TECH020",
-      "surveyCategory": "AI-Native Education & Learning Systems",
+      "surveyCategory": "AI-Native Education Systems",
       "surveyPaid": true,
       "surveyAmount": 172,
       "surveyQuestions": [
@@ -263,7 +263,7 @@
     },
     {
       "surveyId": "TECH021",
-      "surveyCategory": "6G & Advanced Wireless Expectations",
+      "surveyCategory": "Advanced Wireless Expectations",
       "surveyPaid": false,
       "surveyAmount": 132,
       "surveyQuestions": [
@@ -276,7 +276,7 @@
     },
     {
       "surveyId": "TECH022",
-      "surveyCategory": "Neuromorphic & Energy-Efficient AI Hardware",
+      "surveyCategory": "Neuromorphic AI Hardware",
       "surveyPaid": true,
       "surveyAmount": 210,
       "surveyQuestions": [
