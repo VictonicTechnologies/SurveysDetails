@@ -130,9 +130,8 @@
         {"surveyQuestion": "Compared to 2025, how many times more capable do you expect leading multimodal models to be by end of 2026?", "surveyType": 1, "surveyAnswers": ["2–4×", "5–10×", "10–30×", "More than 30×", "About the same"]},
         {"surveyQuestion": "Will multimodal (VLA) models become the dominant interface for interacting with AI by 2028?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "50/50", "Unlikely"]}
       ]
-    }
-  ]
-}    {
+    },
+    {
       "surveyId": "TECH011",
       "surveyCategory": "Sovereign AI Clouds & National Models",
       "surveyPaid": false,
@@ -261,7 +260,8 @@
         {"surveyQuestion": "Would you replace traditional schooling with AI-native personalized learning for your children?", "surveyType": 1, "surveyAnswers": ["Yes – immediately", "Yes – hybrid", "Maybe in future", "No – traditional is better"]},
         {"surveyQuestion": "By 2035, will most education worldwide be primarily delivered by AI systems?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "50/50", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH021",
       "surveyCategory": "6G & Advanced Wireless Expectations",
       "surveyPaid": false,
@@ -390,7 +390,8 @@
         {"surveyQuestion": "How prepared do you feel personally for working in a deeply AI-augmented workplace?", "surveyType": 1, "surveyAnswers": ["Very prepared", "Somewhat prepared", "Need training", "Not prepared"]},
         {"surveyQuestion": "By 2030, will most knowledge workers primarily act as orchestrators of AI agents rather than doing the work themselves?", "surveyType": 1, "surveyAnswers": ["Yes", "Probably", "50/50", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH031",
       "surveyCategory": "Metaverse Reboot & Spatial Social",
       "surveyPaid": false,
@@ -519,7 +520,8 @@
         {"surveyQuestion": "Would you trust a multimodal AI agent to perform physical tasks in your home (via robot) if safety is proven?", "surveyType": 1, "surveyAnswers": ["Yes – immediately", "Yes – with monitoring", "Maybe", "No"]},
         {"surveyQuestion": "By 2029, will multimodal agents become the primary way most people interact with AI?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "50/50", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH041",
       "surveyCategory": "Sustainable Data Centers & Energy for AI",
       "surveyPaid": true,
@@ -647,7 +649,8 @@
         {"surveyQuestion": "What is your biggest concern about moving to a deeply AI-native organization?", "surveyType": 2, "surveyAnswers": []},
         {"surveyQuestion": "Do you believe most successful companies by 2035 will be structured more like AI-orchestrated networks than traditional hierarchies?", "surveyType": 1, "surveyAnswers": ["Yes", "Probably", "50/50", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH051",
       "surveyCategory": "AI Content Authenticity & Watermarking",
       "surveyPaid": true,
@@ -776,7 +779,8 @@
         {"surveyQuestion": "Would you support stricter export controls on advanced AI chips even if it significantly raises costs?", "surveyType": 1, "surveyAnswers": ["Yes – strongly", "Yes – reluctantly", "Neutral", "No"]},
         {"surveyQuestion": "Will meaningful diversification of advanced AI chip production occur before major supply shocks?", "surveyType": 1, "surveyAnswers": ["Yes", "Probably", "50/50", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH061",
       "surveyCategory": "Explainable High-Stakes AI",
       "surveyPaid": true,
@@ -905,7 +909,8 @@
         {"surveyQuestion": "Do you expect inference cost per million tokens for frontier-class models to fall >85% by end of 2027?", "surveyType": 1, "surveyAnswers": ["Yes – likely", "Probably", "50/50", "Unlikely"]},
         {"surveyQuestion": "Will inference cost become the single most important competitive factor among frontier AI providers by 2028?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "Somewhat", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH071",
       "surveyCategory": "Multimodal AI Agents & Interfaces",
       "surveyPaid": true,
@@ -1034,7 +1039,8 @@
         {"surveyQuestion": "Do you expect inference cost per million tokens for frontier models to drop >85% by end of 2027?", "surveyType": 1, "surveyAnswers": ["Yes – likely", "Probably", "50/50", "Unlikely"]},
         {"surveyQuestion": "Will inference cost become the single most decisive competitive factor among frontier AI labs by 2028?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "Somewhat", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH081",
       "surveyCategory": "Explainable High-Stakes AI Systems",
       "surveyPaid": true,
@@ -1163,7 +1169,8 @@
         {"surveyQuestion": "Do you expect inference cost per million tokens for frontier models to fall >85% by end of 2027?", "surveyType": 1, "surveyAnswers": ["Yes – likely", "Probably", "50/50", "Unlikely"]},
         {"surveyQuestion": "Will inference cost become the single most decisive competitive factor among frontier AI providers by 2028?", "surveyType": 1, "surveyAnswers": ["Yes", "Very likely", "Somewhat", "Unlikely"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH091",
       "surveyCategory": "Inference Cost Economics & Frontier Democratization",
       "surveyPaid": true,
@@ -1286,7 +1293,8 @@
         {"surveyQuestion": "What single factor most influences your level of optimism/pessimism about the AI future?", "surveyType": 2, "surveyAnswers": []},
         {"surveyQuestion": "Looking back from January 2030, how do you think the years 2025–2029 will be remembered?", "surveyType": 1, "surveyAnswers": ["The great acceleration", "The point we should have paused", "Chaotic transition period", "Business-as-usual with faster tools", "The calm before the storm"]}
       ]
-    }    {
+    },
+    {
       "surveyId": "TECH101",
       "surveyCategory": "AI Safety & Alignment Research Progress",
       "surveyPaid": true,
